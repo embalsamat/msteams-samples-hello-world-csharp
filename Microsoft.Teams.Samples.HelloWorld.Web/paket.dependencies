@@ -1,0 +1,8 @@
+source https://www.nuget.org/api/v2
+
+nuget Antlr 3.5.0.2 prerelease restriction: >= net461
+nuget Autofac 4.8.1 prerelease restriction: >= net461
+nuget Bogus 29.0.1
+nuget Chronic.Signed 0.3.2 prerelease restriction: >= net461
+nuget EntityFramework 6.1.3 prerelease restriction: >= net461
+nuget Faker.Net 1.1.1 prerelease restriction: >= net461
